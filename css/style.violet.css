@@ -548,11 +548,11 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   align-items: center;
   text-align: center;
   color: #fff;
-  opacity: 0;
-  -webkit-transition: all 0.4s;
-  transition: all 0.4s;
-  -webkit-transform: translateY(100%);
-  transform: translateY(100%);
+  opacity: 1;
+  /* -webkit-transition: all 0.4s; */
+  /* transition: all 0.4s; */
+  /* -webkit-transform: translateY(100%); */
+  /* transform: translateY(100%); */
   padding: 15px;
 }
 
@@ -570,11 +570,11 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   transform: scale(1.2);
 }
 
-.reference .overlay {
-  opacity: 1;
-  -webkit-transform: none;
-  transform: none;
-}
+/* .reference:hover .overlay { */
+  /* opacity: 1; */
+  /* -webkit-transform: none; */
+  /* transform: none; */
+/* } */
 
 #detail {
   display: none;
