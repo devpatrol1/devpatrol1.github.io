@@ -520,7 +520,7 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   display: block;
 }
 
-.reference h3 {
+.reference h4 {
   font-weight: 400;
 }
 
@@ -581,6 +581,11 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   /* transform: none; */
   color: #000;
 }
+
+.reference:hover .overlay p {
+  color: #000;
+}
+
 
 #detail {
   display: none;
