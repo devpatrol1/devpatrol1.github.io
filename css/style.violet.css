@@ -520,6 +520,13 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   display: block;
 }
 
+.reference .overlaywrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: block;
+}
+
 .reference h4 {
   font-weight: 600;
 }
@@ -582,11 +589,11 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   /* opacity: 1; */
   /* -webkit-transform: none; */
   /* transform: none; */
-  color: #666;
+  color: #e2e6ea;
 }
 
 .reference:hover .overlay p {
-  color: #666;
+  color: #e2e6ea;
 }
 
 
