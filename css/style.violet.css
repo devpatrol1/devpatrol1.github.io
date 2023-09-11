@@ -559,6 +559,7 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   -webkit-transform: none;
   transform: none;
   background: rgba(144, 85, 162, 0.7);
+  font: 'Pacifico', Helvetica, sans-serif !important;
 }
 
 .reference .overlay p {
