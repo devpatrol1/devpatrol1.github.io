@@ -548,17 +548,18 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   align-items: center;
   text-align: center;
   color: #fff;
+  padding: 15px;  
   /* opacity: 0; */
   /* -webkit-transition: all 0.4s; */
   /* transition: all 0.4s; */
   /* -webkit-transform: translateY(100%); */
   /* transform: translateY(100%); */
-  padding: 15px;
-  
   opacity: 1;
   -webkit-transform: none;
   transform: none;
   background: rgba(144, 85, 162, 0.7);
+  background: -webkit-linear-gradient(rgba(144, 85, 162, 0.7), rgba(0, 0, 0, 0.7));
+  background: linear-gradient(rgba(144, 85, 162, 0.7), rgba(0, 0, 0, 0.7));
   font: 'Pacifico', Helvetica, sans-serif !important;
 }
 
