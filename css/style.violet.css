@@ -1123,12 +1123,14 @@ STYLE SWITCHER FOR DEMO
   color: #212529;
   background-color: #f8f9fa;
   border-color: #f8f9fa;
+  text-decoration: none;
 }
 
 .btn-light:hover {
   color: #212529;
   background-color: #e2e6ea;
   border-color: #dae0e5;
+  text-decoration: none;
 }
 
 .btn-light:focus, .btn-light.focus {
