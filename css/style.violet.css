@@ -564,6 +564,7 @@ img.cert.img-fluid.d-block.mx-auto:hover {
 
 .reference .overlay p {
   color: #fff;
+  font-style: italic;
 }
 
 .reference .reference-title {
