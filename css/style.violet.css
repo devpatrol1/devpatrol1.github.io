@@ -520,28 +520,6 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   display: block;
 }
 
-.reference .overlay_btn {
-  width: 50%;
-  height: 100%;
-  position: relative;
-  display: block;
-  color: #212529;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
-  text-decoration: none;
-}
-
-.reference .overlay_btn:hover {
-  width: 50%;
-  height: 100%;
-  position: relative;
-  display: block;
-  color: #9055a2;
-  background-color: #e2e6ea;
-  border-color: #dae0e5;
-  text-decoration: none;
-}
-
 .reference h4 {
   font-weight: 600;
 }
@@ -595,6 +573,17 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   letter-spacing: 0.1em;
 }
 
+.reference .overlay_btn {
+  width: 50%;
+  height: 100%;
+  position: relative;
+  display: block;
+  color: #212529;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+  text-decoration: none;
+}
+
 .reference:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
@@ -611,6 +600,12 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   color: #e2e6ea;
 }
 
+.reference:hover .overlay overlay_btn {
+  color: #9055a2;
+  background-color: #e2e6ea;
+  border-color: #9055a2;
+  text-decoration: none;
+}
 
 #detail {
   display: none;
