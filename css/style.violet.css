@@ -582,6 +582,7 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   background-color: #f8f9fa;
   border-color: #f8f9fa;
   text-decoration: none;
+  text-align: center;
 }
 
 .reference:hover img {
@@ -600,7 +601,7 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   color: #e2e6ea;
 }
 
-.reference:hover .overlay overlay_btn {
+.reference:hover .overlay .overlay_btn {
   color: #9055a2;
   background-color: #e2e6ea;
   border-color: #9055a2;
