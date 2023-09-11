@@ -582,11 +582,11 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   /* opacity: 1; */
   /* -webkit-transform: none; */
   /* transform: none; */
-  color: #000;
+  color: #666;
 }
 
 .reference:hover .overlay p {
-  color: #000;
+  color: #666;
 }
 
 
