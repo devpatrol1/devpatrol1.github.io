@@ -570,11 +570,11 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   transform: scale(1.2);
 }
 
-/* .reference:hover .overlay { */
-  /* opacity: 1; */
-  /* -webkit-transform: none; */
-  /* transform: none; */
-/* } */
+.reference .overlay {
+  opacity: 1;
+  -webkit-transform: none;
+  transform: none;
+}
 
 #detail {
   display: none;
