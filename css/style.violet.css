@@ -583,6 +583,8 @@ img.cert.img-fluid.d-block.mx-auto:hover {
   border-color: #f8f9fa;
   text-decoration: none;
   text-align: center;
+  border-radius: 50%;
+  overflow: hidden;
 }
 
 .reference:hover img {
